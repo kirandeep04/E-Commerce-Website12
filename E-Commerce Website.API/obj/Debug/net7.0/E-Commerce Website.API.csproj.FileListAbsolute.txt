@@ -1,0 +1,33 @@
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\bin\Debug\net7.0\E-Commerce Website.API.exe
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\bin\Debug\net7.0\E-Commerce Website.API.deps.json
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\bin\Debug\net7.0\E-Commerce Website.API.runtimeconfig.json
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\bin\Debug\net7.0\E-Commerce Website.API.dll
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\bin\Debug\net7.0\E-Commerce Website.API.pdb
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\obj\Debug\net7.0\E-Commerce Website.API.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\obj\Debug\net7.0\E-Commerce Website.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\obj\Debug\net7.0\E-Commerce Website.API.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\obj\Debug\net7.0\E-Commerce Website.API.AssemblyInfo.cs
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\obj\Debug\net7.0\E-Commerce Website.API.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\obj\Debug\net7.0\E-Commerce Website.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\obj\Debug\net7.0\E-Commerce Website.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\obj\Debug\net7.0\staticwebassets\msbuild.E-Commerce Website.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\obj\Debug\net7.0\staticwebassets\msbuild.build.E-Commerce Website.API.props
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerce Website.API.props
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-Commerce Website.API.props
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\obj\Debug\net7.0\scopedcss\bundle\E-Commerce Website.API.styles.css
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\obj\Debug\net7.0\E-Commerce Website.API.csproj.CopyComplete
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\obj\Debug\net7.0\E-Commerce Website.API.dll
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\obj\Debug\net7.0\refint\E-Commerce Website.API.dll
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\obj\Debug\net7.0\E-Commerce Website.API.pdb
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\obj\Debug\net7.0\E-Commerce Website.API.genruntimeconfig.cache
+C:\Users\Dell\source\repos\E-Commerce Website\E-Commerce Website.API\obj\Debug\net7.0\ref\E-Commerce Website.API.dll
